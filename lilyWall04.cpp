@@ -1,8 +1,12 @@
 #include <iostream>
+#include <string>
 
 using namespace std;
 
 main()
 {
-    cout << "I have a cat name duchess" << endl;
+    string str = "meow";
+
+    cout << "I like to " << str << "!" << endl;
+
 }
