@@ -4,5 +4,5 @@ using namespace std;
 
 main()
 {
-    cout << "fart fart fart" << endl;
+    cout << "I have a cat name duchess" << endl;
 }
